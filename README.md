@@ -5,7 +5,6 @@
     <a href="https://www.instagram.com/ahmed.el_zaki"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  
 ### 💻 Tech Stack
 
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ahmedelzaky)
@@ -15,6 +14,9 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/ahmedelzaky)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/ahmedelzaky)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ahmedelzaky)
+
+  <br/>
+  <br/>
 
 ## 📊 GitHub Stats:
 
