@@ -6,12 +6,15 @@
   </p>
   
   
-### Languages
+### Programming Languages
 
+[![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ahmedelzaky)
+[![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ahmedelzaky)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ahmedelzaky)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/ahmedelzaky)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/ahmedelzaky)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/ahmedelzaky)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ahmedelzaky)
 
 
 
