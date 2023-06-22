@@ -4,8 +4,10 @@
     <a href="https://www.linkedin.com/in/ahmed-el-zaki"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/ahmed.el_zaki"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
+    <br/>
+
   
-### 💻 Tech Stack
+### 💻 Tech Skills 
 
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ahmedelzaky)
 [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ahmedelzaky)
@@ -15,7 +17,6 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/ahmedelzaky)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ahmedelzaky)
 
-  <br/>
   <br/>
 
 ## 📊 GitHub Stats:
