@@ -1,47 +1,43 @@
 <h1 align="center">Hi, I'm Ahmed 👋</h1>
-<p align="center">
-    <a href="https://twitter.com/ahmedelzaki19"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/ahmed-el-zaki"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/ahmed.el_zaki"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  </p>
-    <br/>
-
-  
-### 💻 Tech Skills 
-
-[![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ahmedelzaky)
-[![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ahmedelzaky)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ahmedelzaky)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/ahmedelzaky)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/ahmedelzaky)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/ahmedelzaky)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ahmedelzaky)
-
-  <br/>
-
-## 📊 GitHub Stats:
-
 
 <p align="center">
-  <a href="https://github.com/ahmedelzaky">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedelzaky&theme=transparent" />
+  <a href="https://twitter.com/ahmedelzaki19">
+    <img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/ahmedelzaky">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelzaky&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://www.linkedin.com/in/ahmed-el-zaki">
+    <img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ahmedelzaky">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedelzaky&theme=transparent" />
+  <a href="https://www.instagram.com/ahmed.el_zaki">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/ahmedelzaky">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelzaky&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+</p>
 
+<br />
 
+<h3 align="center">💻 Tech Stack:</h3>
 
-- 👀 I’m interested in New Technology and Learning New Things Every Day
-- 📫 How to reach me ahmed.elzaki291@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-<!---
-ahmedelzaky/ahmedelzaky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelzaky&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelzaky&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelzaky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+
+- 👀 I’m interested in exploring new technologies and learning every day.
+- 📫 You can reach me at ahmed.elzaki291@gmail.com
+
