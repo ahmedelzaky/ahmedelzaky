@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" height="25px" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" height="25px" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" height="25px" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="25px" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="25px" />
   <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="25px" />
 </p>
