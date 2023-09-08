@@ -38,6 +38,7 @@
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 
-- 👀 I’m interested in exploring new technologies and learning every day.
+- 👀 I’m interested in exploring new technologies and learning Embedded System.
+
 - 📫 You can reach me at ahmed.elzaki291@gmail.com
 
