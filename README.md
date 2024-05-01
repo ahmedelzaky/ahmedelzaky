@@ -43,6 +43,7 @@
 ---
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<img src="https://komarev.com/ghpvc/?username=ahmedelzaky&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelzaky" /> </p>
 
 - 👀 I’m interested in exploring new technologies and learning Embedded System.
 
