@@ -16,7 +16,6 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
