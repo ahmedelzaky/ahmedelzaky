@@ -50,9 +50,13 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelzaky&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelzaky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
+</div>
+<br/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelzaky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" alt="languages graph"  />
+</div>
 
 ---
 
